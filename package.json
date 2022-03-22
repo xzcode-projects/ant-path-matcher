@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/xzcode-projects/ant-path-matcher/issues"
   },
-  "homepage": "https://github.com/xzcode-projects/ant-path-matcher#readme"
+  "homepage": "https://github.com/xzcode-projects/ant-path-matcher#readme",
+  "devDependencies": {
+    "ts-node": "^10.4.0"
+  }
 }
